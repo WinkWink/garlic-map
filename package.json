@@ -1,0 +1,32 @@
+{
+  "name": "algolia-instantsearch-react-geo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "16.13.1",
+    "react-instantsearch": "^6.39.1",
+    "react-instantsearch-dom": "^6.39.1",
+    "react-instantsearch-dom-maps": "^5.7.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
