@@ -1,3 +1,2 @@
-# exclude everything except directory foo/bar
-    /src/App.js
-    yarn.lock
+# ignore files
+src/App.js
